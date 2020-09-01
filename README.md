@@ -1,0 +1,1 @@
+App with infinite scroll to show characters, episodes, deaths and quotes of Breaking Bad, using [breakingbadapi.com](https://breakingbadapi.com), create-react-app, emotion and axios. [Demo](https://breakingbad-characters.netlify.app).
